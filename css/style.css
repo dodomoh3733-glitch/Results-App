@@ -1,0 +1,4 @@
+body { background-color: #f4f6f9; }
+#errorBox:empty { display: none; }
+#errorBox { background: #fdecea; border: 1px solid #f5c2c0; border-radius: .5rem; padding: .75rem 1rem; }
+#studentsBox .student-item { padding: .4rem 0; border-bottom: 1px solid #eee; }
